@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension Server.Response {
+extension Server.DTO {
     
     public struct ExampleFragment: Equatable, Decodable {
         

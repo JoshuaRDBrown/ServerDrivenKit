@@ -6,5 +6,5 @@
 //
 
 @frozen public enum Server {
-    @frozen public enum Response { }
+    @frozen public enum DTO { }
 }
